@@ -18,9 +18,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Languages:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>]()
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://cplusplus.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://assets.exercism.org/tracks/x86-64-assembly.svg"/>]()
  
 
@@ -37,6 +37,7 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=androidstudio"/>]()
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=neovim"/>]()
 
 <br>
 
@@ -44,6 +45,7 @@
 
 ## Contact me:
 <!-- <div> -->
+<a href="https://bio.trixsly.xyz" target="_blank"><img loading="lazy" src="https://skillicons.dev/icons?i=ros" target="_blank"></a>
 <a href="https://discord.dog/885063317079592961" target="_blank"><img loading="lazy" src="https://skillicons.dev/icons?i=discord" target="_blank"></a>
 <a href = "mailto: trix@monarchupload.cc"><img loading="lazy" src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
   
