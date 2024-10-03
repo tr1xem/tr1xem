@@ -6,8 +6,8 @@
 <br>
 
 <div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=tr1xem&theme=radical&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr1xem&layout=compact&theme=radical" />
+ <img width=45% align="center" src="https://github-readme-stats-lac-sigma.vercel.app/api?username=tr1xem&include_all_commits=true&count_private=true&theme=aura&show_icons=true" />
+ <img width=40% align="center" src="https://github-readme-stats-lac-sigma.vercel.app/api/top-langs/?username=tr1xem&layout=compact&theme=aura" />
 </div>
 
 
