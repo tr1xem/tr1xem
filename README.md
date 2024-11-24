@@ -61,9 +61,9 @@
 
 ## Contact me:
 <!-- <div> -->
-<a href="https://bio.trixsly.xyz" target="_blank"><img loading="lazy" src="https://skillicons.dev/icons?i=ros" target="_blank"></a>
+<a href="https://trix.is-a.dev" target="_blank"><img loading="lazy" src="https://skillicons.dev/icons?i=ros" target="_blank"></a>
 <a href="https://discord.dog/885063317079592961" target="_blank"><img loading="lazy" src="https://skillicons.dev/icons?i=discord" target="_blank"></a>
-<a href = "mailto: trix@monarchupload.cc"><img loading="lazy" src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
+<a href = "mailto:admin@trix.is-a.dev"><img loading="lazy" src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
   
 </div>
 
