@@ -15,25 +15,50 @@
 <p align="center">I use Arch(btw)</p>
 
 </div>
-<br>
-<div align="center" style="margin-bottom:250px">
-<picture>
- <img src="https://github-readme-stats-lac-sigma.vercel.app/api?username=tr1xem&include_all_commits=true&count_private=true&theme=aura&show_icons=true" />
-</picture>
-<picture>
- <img src="https://github-readme-streak-stats-two-ruddy.vercel.app/?user=tr1xem&theme=aura" />
-</picture>
- <br><br>
-<picture>
+<!-- Container for the top two side by side with spacing -->
+<div align="center" style="margin-bottom: 20px;">
+  <!-- GitHub Stats -->
+  <picture style="margin-right: 10px;">
+    <source
+      srcset="https://github-readme-stats-lac-sigma.vercel.app/api?username=tr1xem&include_all_commits=true&count_private=true&theme=aura&show_icons=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      height="200"
+      src="https://github-readme-stats-lac-sigma.vercel.app/api?username=tr1xem&include_all_commits=true&count_private=true&show_icons=true"
+      alt="GitHub Stats"
+    />
+  </picture>      
 
- <img src="https://github-readme-stats-lac-sigma.vercel.app/api/top-langs/?username=tr1xem&layout=compact&theme=aura" />
-</picture>
-
+  <!-- GitHub Streak -->
+  <picture style="margin-left: 20px;">
+    <source
+      srcset="https://github-readme-streak-stats-two-ruddy.vercel.app/?user=tr1xem&theme=aura"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      height="200"
+      src="https://github-readme-streak-stats-two-ruddy.vercel.app/?user=tr1xem"
+      alt="GitHub Streak"
+    />
+  </picture>
+</div>
+<br> 
+<!-- Centered Top Languages below with gap -->
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-lac-sigma.vercel.app/api/top-langs/?username=tr1xem&layout=compact&theme=aura"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      height="200"
+      src="https://github-readme-stats-lac-sigma.vercel.app/api/top-langs/?username=tr1xem&layout=compact"
+      alt="Top Languages"
+    />
+  </picture>
 </div>
 
-
-
-<br>
 
 ## Language and Tools
 
