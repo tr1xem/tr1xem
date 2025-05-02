@@ -17,10 +17,18 @@
 </div>
 <br>
 <div align="center" style="margin-bottom:250px">
- <img width=45% align="center" src="https://github-readme-stats-lac-sigma.vercel.app/api?username=tr1xem&include_all_commits=true&count_private=true&theme=aura&show_icons=true" />
-  <img width=45% align="center" src="https://github-readme-streak-stats-two-ruddy.vercel.app/?user=tr1xem&theme=aura" />
+<picture>
+ <img src="https://github-readme-stats-lac-sigma.vercel.app/api?username=tr1xem&include_all_commits=true&count_private=true&theme=aura&show_icons=true" />
+</picture>
+<picture>
+ <img src="https://github-readme-streak-stats-two-ruddy.vercel.app/?user=tr1xem&theme=aura" />
+</picture>
  <br><br>
- <img width=40% align="center" src="https://github-readme-stats-lac-sigma.vercel.app/api/top-langs/?username=tr1xem&layout=compact&theme=aura" />
+<picture>
+
+ <img src="https://github-readme-stats-lac-sigma.vercel.app/api/top-langs/?username=tr1xem&layout=compact&theme=aura" />
+</picture>
+
 </div>
 
 
