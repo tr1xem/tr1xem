@@ -55,12 +55,12 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats-lac-sigma.vercel.app/api/top-langs/?username=tr1xem&layout=compact&theme=aura"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tr1xem&layout=compact&theme=aura"
       media="(prefers-color-scheme: dark)"
     />
     <img
       height="200"
-      src="https://github-readme-stats-lac-sigma.vercel.app/api/top-langs/?username=tr1xem&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr1xem&layout=compact&theme=aura"
       alt="Top Languages"
     />
   </picture>
