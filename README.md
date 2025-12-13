@@ -10,18 +10,12 @@
   <picture>
     <img alt="followers" src=
   "https://img.shields.io/github/followers/tr1xem?label=Followers&style=social">
-  </picture><picture>
-<img alt="Currently playing" src="https://api.statusbadges.me/badge/playing/885063317079592961?label=Playing">
-  </picture> <picture>
-<img alt="Currently coding" src="https://api.statusbadges.me/badge/vscode/885063317079592961?label=Coding">
   </picture>
-<picture>
-    <img alt="Currently listening to" src="https://api.statusbadges.me/badge/spotify/885063317079592961?label=Listening%20to">
-  </picture>
+
 <br />
 <br />
 
-
+Hello I'm Trix and I'm from mars :). Most of my fav repo are pinned feel free to contact me if you need any help or want to collab.
 
 Check out my [website](https://trix.is-a.dev/), it's where I tell about myself and blog about variety of things.
 <br />
