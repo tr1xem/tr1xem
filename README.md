@@ -19,9 +19,9 @@
 Hello I'm Trix and I'm from mars :). Most of my fav repo are pinned feel free to contact me if you need any help or want to collab.
 
 Check out my [website](https://trix.is-a.dev/), it's where I tell about myself and blog about variety of things.
-<br />
-<br />
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+<br />
 </div>
 <!-- </div> -->
 <!-- Container for the top two side by side with spacing -->
