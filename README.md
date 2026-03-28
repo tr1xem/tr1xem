@@ -5,13 +5,13 @@
 
  <br>
 <div align="center">
-<picture>
+<!-- <picture>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=tr1xems&label=Profile%20views&style=aura&color=5865F2">
 </picture>
   <picture>
     <img alt="followers" src=
   "https://img.shields.io/github/followers/tr1xem?label=Followers&style=social">
-  </picture>
+  </picture> -->
 
 <br />
 <br />
